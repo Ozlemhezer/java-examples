@@ -1,0 +1,24 @@
+### IntelliJ IDEA
+
+.idea/
+*.iml
+out/
+
+### Java
+
+*.class
+*.log
+
+### Build Tools
+
+target/
+build/
+
+### VS Code
+
+.vscode/
+
+### OS
+
+.DS_Store
+Thumbs.db
