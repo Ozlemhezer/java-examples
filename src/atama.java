@@ -27,6 +27,8 @@ public class atama {
 //        System.out.println("abc".startsWith("A"));
 //        System.out.println("abc".contains("b"));
 //        System.out.println("abc".contains("B"));
+        System.out.println("abca".replace('a','A')); // char alıyor.
+        System.out.println("abca".replace("a","A")); // charSequence alıyor.
 
 
     }
